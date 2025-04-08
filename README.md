@@ -13,7 +13,7 @@ Este é um otimizador de imagens simples e eficiente que comprime e redimensiona
 
 ## 🚀 Como usar
 
-1. Execute o arquivo `Otimizador.exe` detro da pasta dinst 
+1. Execute o arquivo `Otimizador.exe` detro da pasta dist 
    - Clique duas vezes para abrir a aplicação.
 
 2. Escolha como deseja otimizar:
