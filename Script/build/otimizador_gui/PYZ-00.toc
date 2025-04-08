@@ -1,4 +1,4 @@
-('C:\\Python\\Script - Copia\\build\\otimizador_gui\\PYZ-00.pyz',
+('C:\\Python\\Script\\build\\otimizador_gui\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\CompLenovo\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
